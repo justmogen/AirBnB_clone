@@ -21,7 +21,7 @@ class Place(BaseModel):
 
     max_guest = 0
 
-    price_per_night = 0
+    price_by_night = 0
 
     latitude = 0.0
 
